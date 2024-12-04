@@ -34,4 +34,5 @@ public class _1_2_checkPermutation {
         }
         return map;
     }
+
 }
